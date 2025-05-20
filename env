@@ -1,0 +1,5 @@
+# Azure OpenAI Configuration
+AZURE_OPENAI_API_KEY=your-api-key-here
+AZURE_OPENAI_ENDPOINT=https://your-endpoint-name.openai.azure.com/
+AZURE_OPENAI_GPT4O_DEPLOYMENT_NAME=your-deployment-name
+AZURE_OPENAI_API_VERSION=2023-05-15
